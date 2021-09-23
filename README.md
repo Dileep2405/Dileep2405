@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Dileep
+- 👋 Hi, I’m @ Dileep
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Terminal
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Mattermost
+- 📫 You Can reach me in Mattermost
 
 <!---
 Dileep2405/Dileep2405 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
